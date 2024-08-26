@@ -8,9 +8,9 @@
         android:id="@+id/info_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
+        android:text="ChatHistory"
         android:padding="16dp"
-        android:textSize="18sp"
+        android:textSize="26dp"
         android:gravity="center" />
 
     <!-- RecyclerView для отображения списка историй -->
